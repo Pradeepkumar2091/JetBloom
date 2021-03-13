@@ -9,5 +9,19 @@
       or implied. See the License for the specific language governing permissions and limitations under
       the License.
       -->
-    <string name="app_name">AndroidDevChallenge</string>
+    <string name="app_name">JetBloom</string>
+    <string name="subtitle">Beautiful home garden solutions</string>
+    <string name="create_account">Create account</string>
+    <string name="login">Log in</string>
+    <string name="login_title">Log in with email</string>
+    <string name="email_placeholder">Email address</string>
+    <string name="password_placeholder">Password (8+ characters)</string>
+    <string name="login_description1">By clicking below, you agree to our</string>
+    <string name="login_description2">and consent to our</string>
+    <string name="login_description3">.</string>
+    <string name="terms_of_use">Terms of Use</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="search_placeholder">Search</string>
+    <string name="home_browse">Browse themes</string>
+    <string name="home_design">Design your home garden</string>
 </resources>
